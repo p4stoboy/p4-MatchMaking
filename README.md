@@ -5,11 +5,11 @@ Nodejs / websocket matchmaking server template
 - `npm i --dev`
 
 # Build project
-- npm run compile (output in `./build`)
+- `npm run compile` (output in `./build`)
 
 # Run test client
-- after building project start index.js in `./build/src`
-- start test_client.js
+- after building project start `index.js` in `./build/src`
+- start `test_client.js`
 
 # Usage
 - comments are fairly self explanatory.
