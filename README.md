@@ -15,7 +15,7 @@ Nodejs / websocket matchmaking server template
 - modify `do_battle()` function in `./src/index.ts` to handle post-matching logic the way you want.
 
 # Run test client
-- after building project start `index.js` in `./build/src`
+- after building project, start `index.js` in `./build/src`
 - start `test_client.js`
 - output is from client side sockets opened in `test_client.js`
 
