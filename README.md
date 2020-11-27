@@ -1,5 +1,5 @@
 # p4-MatchMaking
-Nodejs / websocket matchmaking server template
+Nodejs / websocket matchmaking service template
 
 # Installation
 - `npm i --dev`
